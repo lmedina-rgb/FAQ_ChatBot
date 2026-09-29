@@ -1,0 +1,1 @@
+Bom dia. Eu estou precisando imprimir a lista de alunos de cada rota, separado. Como que eu faço para imprimir a quantidade de alunos, sair o nome dos alunos certinho de cada rota? Alguém poderia me dar um help aí, por favor?
