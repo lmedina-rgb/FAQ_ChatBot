@@ -3,7 +3,7 @@
 **Fonte:** 13 áudios de WhatsApp (`dados/*.opus`, abr–ago/2026), transcritos automaticamente (Whisper *medium*) em `dados/transcricoes/`.
 **Aproveitamento:** 12 áudios com conteúdo; `PTT-20260617-WA0058` sem fala reconhecível (verificar manualmente).
 
-> Termos corrigidos na leitura da transcrição: "SIGECON" → provavelmente **SiGPC** (FNDE); "Bebê Gestão Ágil" → **BB Gestão Ágil**; "mata burso" → **mata-burro**. "Equilóquio" (WA0026) e "Redline" (WA0067) não foram identificados — conferir no áudio.
+> Termos corrigidos na leitura da transcrição: "Bebê Gestão Ágil" → **BB Gestão Ágil**; "mata burso" → **mata-burro**. "Equilóquio" (WA0026) e "Redline" (WA0067) não foram identificados — conferir no áudio.
 
 ---
 
@@ -14,7 +14,7 @@
 | 1 | SETE – relatórios e impressão (alunos por rota, mapa em PDF) | 3 | WA0050, WA0079, WA0099 |
 | 2 | SETE – rotas: alterar traçado e georreferenciar pontos de embarque | 3 | 20260616-WA0015, 20260510-WA0054, 20260510-WA0073 |
 | 3 | Aluno que mora em outro município / rota na divisa | 2 | 20260507-WA0026, 20260616-WA0015 |
-| 4 | Acesso a sistemas do FNDE (prestação de contas) | 2 | 20260429-WA0041, 20260429-WA0067 |
+| 4 | Acesso ao SIGECON (FNDE) | 2 | 20260429-WA0041, 20260429-WA0067 |
 | 5 | Manter o cadastro de alunos atualizado (matrícula/transferência) | 1 | 20260510-WA0073 |
 | 6 | PNATE – prestação de contas no BB Gestão Ágil | 1 | 20260623-WA0023 |
 | 7 | Regulamentação municipal do transporte escolar | 1 | 20260506-WA0128 |
@@ -55,9 +55,9 @@ Os temas mais recorrentes são **operação do SETE (rotas e relatórios)** – 
 *Origem: 20260507-WA0026, citado também em 20260616-WA0015.*
 *Resposta-base (validar com o FNDE):* o que vale para o programa é a **matrícula na rede** (Censo Escolar) e o uso do transporte escolar público. O atendimento de alunos que moram na divisa é comum e recomenda-se formalizar com o município vizinho (convênio ou termo de cooperação) e registrar corretamente o endereço no SETE.
 
-### 4. Acesso a sistemas do FNDE
+### 4. Acesso ao SIGECON (FNDE)
 
-**4.1 O sistema de prestação de contas (SiGPC) está fora do ar ou sem acesso. Outros municípios também estão com problema?**
+**4.1 O SIGECON está com problema ou sem acesso. Outros municípios também estão com problema?**
 *Origem: 20260429-WA0041, 20260429-WA0067.* Relato de que a instabilidade foi reconhecida na capacitação do SETE; o último lançamento feito foi de 2022, e a equipe não consegue acessar.
 *Resposta-base:* verificar os perfis e credenciais de acesso (gestor/cadastrador) e abrir chamado nos canais do FNDE. **Lacuna:** incluir no FAQ o canal oficial de suporte e o procedimento de recuperação de acesso.
 
@@ -91,7 +91,7 @@ Os temas mais recorrentes são **operação do SETE (rotas e relatórios)** – 
 
 ## Lacunas para o chatbot (conteúdo a produzir)
 1. Passo a passo (texto + vídeo) do SETE para: imprimir alunos por rota, exportar o mapa da rota em PDF e editar ou estender uma rota.
-2. Canal oficial de suporte do FNDE e do SiGPC e procedimento de recuperação de acesso.
+2. Canal oficial de suporte do FNDE para o SIGECON e procedimento de recuperação de acesso.
 3. Posição oficial sobre o "valor do documento zerado" no BB Gestão Ágil.
 4. Modelo de regulamentação municipal do transporte escolar.
 5. Orientação formal sobre alunos residentes em outro município.
